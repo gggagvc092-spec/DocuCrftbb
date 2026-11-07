@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+reportlab
+python-docx
+python-pptx
+arabic-reshaper
+python-bidi
+edge-tts
+requests
+Pillow
